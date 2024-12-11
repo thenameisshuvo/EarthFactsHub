@@ -7,14 +7,8 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2 lg:col-span-1">
             <h2 className="text-2xl font-bold mb-4 flex justify-center items-center gap-1">
-              <span>
-                <img
-                  src="../../public/world-svgrepo-com.svg"
-                  className="w-5 md:w-6"
-                  alt="EarthFactsHub"
-                />
-              </span>{" "}
-              EarthFactsHub
+      
+           EarthFactsHub
             </h2>
             <p>Explore the Globe, One Nation at a Time.</p>
           </div>
